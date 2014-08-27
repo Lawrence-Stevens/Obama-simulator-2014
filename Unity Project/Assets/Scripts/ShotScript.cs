@@ -1,5 +1,4 @@
 ﻿using UnityEngine;
-using System.Collections;
 
 public class ShotScript : MonoBehaviour{
 
@@ -11,6 +10,6 @@ public class ShotScript : MonoBehaviour{
 	void Start()
 	{
 	
-		Destroy(gameObject, 15); 
+		Destroy(gameObject, 8); 
 	}
 }

@@ -7,7 +7,7 @@ public class HealthScript : MonoBehaviour {
 	
 
 	public bool isEnemy = true;
-
+	public bool displayDamage = false;
 	public void Damage(int damageCount)
 	{
 		hp -= damageCount;
@@ -18,7 +18,8 @@ public class HealthScript : MonoBehaviour {
 			Destroy(gameObject);
 		}
 	}
-	
+
+
 	void OnTriggerEnter2D(Collider2D otherCollider)
 	{
 

@@ -1,13 +1,16 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GameOverScript.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MoveScript.cs">
     <Files>
       <File FileName="Unity Project.sln" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\EnemyScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\EnemyScript.cs" Line="2" Column="1" />
       <File FileName="Assets\Scripts\flying phil motherfucking fish script.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\Philfish.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\ScrollingScript.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\GameOverScript.cs" Line="27" Column="2" />
+      <File FileName="Assets\Scripts\Philfish.cs" Line="53" Column="5" />
+      <File FileName="Assets\Scripts\ScrollingScript.cs" Line="4" Column="1" />
+      <File FileName="Assets\Scripts\GameOverScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ShotScript.cs" Line="1" Column="19" />
+      <File FileName="Assets\Scripts\RendererExtension.cs.cs" Line="10" Column="2" />
+      <File FileName="Assets\Scripts\MoveScript.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
