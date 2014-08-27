@@ -1,12 +1,13 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Philfish.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GameOverScript.cs">
     <Files>
       <File FileName="Unity Project.sln" Line="1" Column="1" />
       <File FileName="Assets\Scripts\EnemyScript.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\flying phil motherfucking fish script.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\Philfish.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\ScrollingScript.cs" Line="17" Column="7" />
+      <File FileName="Assets\Scripts\ScrollingScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameOverScript.cs" Line="27" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
